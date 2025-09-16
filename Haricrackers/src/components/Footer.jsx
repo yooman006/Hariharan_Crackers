@@ -118,7 +118,7 @@ const Footer = ({ scrollToProducts, scrollToFooter }) => {
               <div className="space-y-4">
                 {/* Phone Numbers */}
                 <div className="space-y-2">
-                  {['+91 9894446693', '+91 883885639'].map((phone, index) => (
+                  {['+91 9894446693', '+91 883885639','+91 9994990548'].map((phone, index) => (
                     <a
                       key={phone}
                       href={`tel:${phone}`}

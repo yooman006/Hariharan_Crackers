@@ -242,6 +242,28 @@ import k1 from './k1.jpg'
 import k2 from './2k.jpg'
 import k5 from './5k.jpg'
 import k10 from './10k.jpg'
+import rangela from './rangela.jpg'
+import redapple from './redapple.jpg'
+import dragon1 from './dragon1.jpg'
+import pear from './pear.jpg'
+import pine from './pine.jpg'
+import jimjam from './jimjam.png'
+import hubble from './hubble.png'
+import laffy from './laffy.png'
+import rap from './rap.png'
+import redlabel from './redlabel.png'
+import green from './green.png'
+import blue from './blue.png'
+import hand from './hand.png'
+import single4 from './single4.png'
+import hakeer from './hakeer.jpg'
+import poppop from './poppop.jpg'
+import gold from './gold.png'
+import handcone from './handcone.jpg'
+import guitar from './guitar.jpg'
+import kadha from './kadha.jpg'
+import love from './love.jpg'
+import circus from './circus.jpg'
 
 export const assets = {
   logo,birdCrackers,lakshmi,goldlakshmi,twosound,potjumbo,potbig,potspl,potaso,koti,kotig,kotij,chakarbig,chakarspl,chakard,wheel4,
@@ -251,17 +273,17 @@ export const assets = {
   blueice,goldfeast,greengarden,crackling,selfie,serpentsony,smoke,minions,panda,Incrediables,prodance,spartans,insta,fancy3p,fast,
   shot12,shot12s,shot25,shot50,shot100,shot15,shot25m,shot30,shot50t,shot60,shot120,shot240,troysony,sonylion,avatarsony,gladysony,
   littlesony,antsony,paperbomb,magicshow,magicmono,money3p,siren2p,siren5p,siren3p,sweet,electric7cm,crackling7cm,green7cm,red7cm,
-  electric10cm,crackling10cm,green10cm,red10cm,electric12cm,crackling12cm,
+  electric10cm,crackling10cm,green10cm,red10cm,electric12cm,crackling12cm,pear,guitar,kadha,love,circus,
   green12cm,red12cm,electric15cm,crackling15cm,green15cm,red15cm,electric30cm,crackling30cm,green30cm,red30cm,Royal30Electric,water30cm,
-  electric50cm,crackling50cm,color50cm,electric75cm,rotating,green75cm,
-  danis,efil,helsimki,spain,denmark,finland,poland,paris,orange,goldcard,wala100,k1,k2,k5,k10,
-  kalid,blueberry,goldenchip,lal,narnia,nightangel,infra,yellow,vally,mirchi,silverfall,glen,shot15smoke,
-  angel,bluechip,octo,neela,vertigo,monster,rain,mela,rock,naya,hot,genesy,badboy,redsun,jack,belly,
-  bugs,heaven,crystle,worldwar,skytraffic,bolly,velvet,lemon,blueocto,web,sense,
-  xman,brucelee,hercules,colourplus,menin,pirate,terminator,ring,royalmax,royalmega,dummy,pred,tiktak,chit,
+  electric50cm,crackling50cm,color50cm,electric75cm,rotating,green75cm,pine,handcone,
+  danis,efil,helsimki,spain,denmark,finland,poland,paris,orange,goldcard,wala100,k1,k2,k5,k10,jimjam,hubble,
+  kalid,blueberry,goldenchip,lal,narnia,nightangel,infra,yellow,vally,mirchi,silverfall,glen,shot15smoke,laffy,
+  angel,bluechip,octo,neela,vertigo,monster,rain,mela,rock,naya,hot,genesy,badboy,redsun,jack,belly,rap,gold,
+  bugs,heaven,crystle,worldwar,skytraffic,bolly,velvet,lemon,blueocto,web,sense,single4,hakeer,poppop,
+  xman,brucelee,hercules,colourplus,menin,pirate,terminator,ring,royalmax,royalmega,dummy,pred,tiktak,chit,redlabel,green,blue,hand,
   wol,pops,snake,chota98,fancy2,fancy2i,fancy312,fancy3121,lunar,goldcoin,
   booty,king,greenbeat,fastfury,fist,cricket,thriller,fancy4k,fancy4s,fancypink,fancypurple,aladin,lion,rockdog,duck,iceblue,sporange,
-  night,sizz,crack,setout,captain,hulk,robin,gift31,gift36,gift41,agni,starlight,fanty,rainy
+  night,sizz,crack,setout,captain,hulk,robin,gift31,gift36,gift41,agni,starlight,fanty,rainy,rangela,redapple,dragon1
 
 
 
