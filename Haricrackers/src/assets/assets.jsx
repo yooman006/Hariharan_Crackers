@@ -1,4 +1,4 @@
-import logo from './logo.png';
+import logo from './logo2.png';
 import birdCrackers from './bird-crackers.png';
 import lakshmi from './Laxmi4 Crackers.png'
 import goldlakshmi from './goldlakshmi.png'
