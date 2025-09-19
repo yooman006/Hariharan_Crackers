@@ -18,7 +18,7 @@ export const generateReceipt = (orderData) => {
     // Contact Info
     doc.setFontSize(12);
     doc.setTextColor(20, 184, 166);
-    doc.text('Sivakasi - 626123', 105, 40, null, null, 'center');
+    doc.text('181//9/19, Pernaikyanpatti, Vembakkottai, Sivakasi, Virudhunagar, Tamil Nadu - 626123', 105, 40, null, null, 'center');
     doc.text('Phone: +91 9894446693 | Email: sample@gmail.com', 105, 46, null, null, 'center');
     
     // Divider
