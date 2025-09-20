@@ -148,7 +148,7 @@ export default function AdminOrdersManagement() {
                 </div>
                 <div>
                   <h1 className="text-2xl font-bold text-gray-900 bg-gradient-to-r from-gray-900 via-blue-800 to-indigo-800 bg-clip-text">
-                    Orders Dashboard
+                    Hariharan Crackers Orders Dashboard
                   </h1>
                 </div>
               </div>
