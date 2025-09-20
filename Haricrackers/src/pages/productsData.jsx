@@ -349,7 +349,7 @@ export const products = [
     "id": 32,
     "name": "Hakker Bomb",
     "price": 1850,
-    "image": assets.hakeer,
+    "image": assets.hacker,
     "category": "BOMBS",
     "brand": "Hari",
     "rating": null,
