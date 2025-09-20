@@ -1,5 +1,5 @@
 // services/orderService.js
-const API_BASE_URL = 'https://hariharan-crackers-1.onrender.com/api';
+const API_BASE_URL = 'https://haricrackerbackend.azurewebsites.net/api';
 
 export const orderService = {
   // Existing methods
