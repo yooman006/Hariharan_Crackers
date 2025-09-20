@@ -47,10 +47,9 @@ export const pdfService = {
       doc.setFontSize(10);
       doc.text('S.No', 25, startY + 10);
       doc.text('Item', 35, startY + 10);
-      doc.text('Brand', 95, startY + 10);
-      doc.text('Price', 140, startY + 10);
-      doc.text('Qty', 160, startY + 10);
-      doc.text('Total', 180, startY + 10);
+      doc.text('Price', 120, startY + 10);
+      doc.text('Qty', 150, startY + 10);
+      doc.text('Total', 175, startY + 10);
 
       let yPos = startY + 15;
       items.forEach((item, index) => {
@@ -60,14 +59,12 @@ export const pdfService = {
         doc.setTextColor(0, 0, 0);
         const serialNumber = (pageNumber - 1) * itemsPerPage + index + 1;
         doc.text(serialNumber.toString(), 25, yPos);
-        const itemNameLines = doc.splitTextToSize(item.name, 55);
-        const brandLines = doc.splitTextToSize(item.brand || '', 30);
-        const linesNeeded = Math.max(itemNameLines.length, brandLines.length);
+        const itemNameLines = doc.splitTextToSize(item.name, 80);
+        const linesNeeded = itemNameLines.length;
         doc.text(itemNameLines, 35, yPos);
-        doc.text(brandLines, 95, yPos);
-        doc.text(`${item.price.toFixed(2)}`, 140, yPos);
-        doc.text(item.quantity.toString(), 160, yPos);
-        doc.text(`${(item.price * item.quantity).toFixed(2)}`, 180, yPos);
+        doc.text(`${item.price.toFixed(2)}`, 120, yPos);
+        doc.text(item.quantity.toString(), 150, yPos);
+        doc.text(`${(item.price * item.quantity).toFixed(2)}`, 175, yPos);
         yPos += 6 * linesNeeded;
       });
 
@@ -91,7 +88,7 @@ export const pdfService = {
 
       doc.setFont(undefined, 'bold');
       doc.text('Total Amount:', 140, yPos + 30);
-      doc.text(`${order.totals.total.toFixed(2)}`, 180, yPos + 30);
+      doc.text(`${Math.round(order.totals.total.toFixed(2))}`, 180, yPos + 30);
       doc.setFontSize(10);
       doc.setTextColor(100, 100, 100);
       doc.text('Thank you for your business', 105, yPos + 50, null, null, 'center');
