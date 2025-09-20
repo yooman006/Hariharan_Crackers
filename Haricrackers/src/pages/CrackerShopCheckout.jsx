@@ -158,7 +158,7 @@ export default function CrackerShopCheckout() {
               Back
             </button>
             <div className="text-center">
-              <h1 className="text-4xl font-bold text-gray-800 mb-2">🎆 MANO Crackers</h1>
+              <h1 className="text-4xl font-bold text-gray-800 mb-2">🎆 HariHaran Crackers</h1>
               <p className="text-gray-600">Complete your festive order</p>
             </div>
           </div>
