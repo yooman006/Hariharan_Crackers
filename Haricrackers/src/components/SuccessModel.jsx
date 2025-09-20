@@ -12,6 +12,7 @@ export const SuccessModal = ({ showSuccess, onClose }) => {
             <CheckCircle className="w-10 h-10 text-emerald-500" />
           </div>
           <h2 className="text-2xl font-bold text-gray-800 mb-2">Order Confirmed!</h2>
+          <h2 className="text-2xl font-bold text-gray-800 mb-2">Receipt Downloaded</h2>
           <p className="text-gray-600 mb-6">Thank you for your purchase. We've received your order.</p>
           <button
             onClick={onClose}
