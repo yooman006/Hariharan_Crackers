@@ -178,13 +178,13 @@ const HeroSection = ({ scrollToProducts }) => {
                     <Phone className="w-4 h-4" />
                     <span className="font-semibold">+91 9894446693</span>
                   </a>
-                  <a 
+                 {/* <a 
                     href="mailto:sample@gmail.com"
                     className="group flex items-center justify-center space-x-2 bg-gradient-to-r from-emerald-500/25 to-green-500/25 hover:from-emerald-500/35 hover:to-green-500/35 text-emerald-300 px-4 py-3 rounded-xl text-sm transition-all duration-300 border border-emerald-500/25 hover:border-emerald-400/35"
                   >
                     <Mail className="w-4 h-4" />
                     <span className="font-semibold">Festival Quote</span>
-                  </a>
+                  </a>*/}
                 </div>
               </div>
             </div>

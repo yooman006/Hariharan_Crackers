@@ -135,7 +135,7 @@ const Footer = ({ scrollToProducts, scrollToFooter }) => {
                 </div>
 
                 {/* Email */}
-                <a
+                {/*<a
                   href="mailto:sample@gmail.com"
                   className="group flex items-center space-x-3 bg-amber-900/30 hover:bg-amber-800/40 border border-amber-700/40 hover:border-amber-500/40 rounded-xl p-3 transition-all duration-300"
                 >
@@ -143,7 +143,7 @@ const Footer = ({ scrollToProducts, scrollToFooter }) => {
                     <Mail className="w-4 h-4 text-orange-400" />
                   </div>
                   <span className="text-amber-200 group-hover:text-amber-100 text-sm font-semibold">sample@gmail.com</span>
-                </a>
+                </a>*/}
 
                 {/* Address */}
                 <div className="flex items-start space-x-3 bg-amber-900/30 border border-amber-700/40 rounded-xl p-3">
