@@ -27,6 +27,28 @@ export const products = [
     "color": null
   },
   {
+    "id": 306,
+    "name": "5\" Jallikattu",
+    "price": 265,
+    "image": assets.jallikattu,
+    "category": "ONE SOUND CRACKERS",
+    "brand": "Hari",
+    "rating": null,
+    "description": null,
+    "color": null
+  },
+  {
+    "id": 307,
+    "name": "6\" Benten / Lion",
+    "price": 290,
+    "image": assets.ben10,
+    "category": "ONE SOUND CRACKERS",
+    "brand": "Hari",
+    "rating": null,
+    "description": null,
+    "color": null
+  },
+  {
     "id": 3,
     "name": "4\" Lakshmi",
     "price": 99,
@@ -647,6 +669,39 @@ export const products = [
     "name": "Magic Pops",
     "price": 40,
     "image": assets.magicpop,
+    "category": "NOVELTIES",
+    "brand": "Hari",
+    "rating": null,
+    "description": null,
+    "color": null
+  },
+  {
+    "id": 312,
+    "name": "Pride Popcorn",
+    "price": 1000,
+    "image": assets.pridepopcon,
+    "category": "NOVELTIES",
+    "brand": "Hari",
+    "rating": null,
+    "description": null,
+    "color": null
+  },
+  {
+    "id": 315,
+    "name": "Peacock feather (2 Pcs)",
+    "price": 1000,
+    "image": assets.peacock,
+    "category": "NOVELTIES",
+    "brand": "Hari",
+    "rating": null,
+    "description": null,
+    "color": null
+  },
+  {
+    "id": 313,
+    "name": "Mojito",
+    "price": 1000,
+    "image": assets.pridepopcon,
     "category": "NOVELTIES",
     "brand": "Hari",
     "rating": null,
@@ -1402,6 +1457,50 @@ export const products = [
   "color": null
 },
 {
+  "id": 308,
+  "name": "Blue Label",
+  "price": 1450,
+  "image": assets.bluelabel,
+  "category": "King of 2.0 3½\"FANCY (Single Pce)",
+  "brand": "Hari",
+  "rating": null,
+  "description": null,
+  "color": null
+},
+{
+  "id": 314,
+  "name": "Red Label",
+  "price": 1450,
+  "image": assets.redlabel1,
+  "category": "2\"Single FANCY (3 Pce)",
+  "brand": "Hari",
+  "rating": null,
+  "description": null,
+  "color": null
+},
+{
+  "id": 309,
+  "name": "Gannga Jamuna",
+  "price": 530,
+  "image": assets.ganngajamuna,
+  "category": "King of 2.0 3½\"FANCY (Single Pce)",
+  "brand": "Hari",
+  "rating": null,
+  "description": null,
+  "color": null
+},
+{
+  "id": 310,
+  "name": "Ben 10 Green",
+  "price": 1450,
+  "image": assets.ben10green,
+  "category": "King of 2.0 3½\"FANCY (Single Pce)",
+  "brand": "Hari",
+  "rating": null,
+  "description": null,
+  "color": null
+},
+{
   "id": 128,
   "name": "Green Label",
   "price": 1450,
@@ -2033,6 +2132,17 @@ export const products = [
   "name": "Circus (8 in 1 Chakkar)",
   "price": 985,
   "image": assets.circus,
+  "category": "NEW ARRIVALS",
+  "brand": "Hari",
+  "rating": null,
+  "description": null,
+  "color": null
+},
+{
+  "id": 311,
+  "name": "Elephant Falls (3 Pcs)",
+  "price": 660,
+  "image": assets.elephant,
   "category": "NEW ARRIVALS",
   "brand": "Hari",
   "rating": null,
