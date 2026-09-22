@@ -272,6 +272,16 @@ import gift361 from './gift36.jpg'
 import gift411 from './gift41.jpg'
 import gift51 from './gift51.jpg'
 import gift61 from './gift61.jpg'
+import jallikattu from './jallikattu.jpeg'
+import ben10 from './ben10.jpeg'
+import bluelabel from './bluelable.jpeg'
+import ganngajamuna from './ganngajamuna.jpeg'
+import ben10green from './ben10green.jpeg'
+import elephant from './elephant.jpeg'
+import pridepopcon from './pridepopcon.jpeg'
+import mojito from './mojito.jpeg'
+import redlabel1 from './redlabel.jpeg'
+import peacock1 from './peacock.jpeg'
 
 export const assets = {
   logo,birdCrackers,lakshmi,goldlakshmi,twosound,potjumbo,potbig,potspl,potaso,koti,kotig,kotij,chakarbig,chakarspl,chakard,wheel4,
@@ -291,7 +301,9 @@ export const assets = {
   xman,brucelee,hercules,colourplus,menin,pirate,terminator,ring,royalmax,royalmega,dummy,pred,tiktak,chit,redlabel,green,blue,hand,
   wol,pops,snake,chota98,fancy2,fancy2i,fancy312,fancy3121,lunar,goldcoin,
   booty,king,greenbeat,fastfury,fist,cricket,thriller,fancy4k,fancy4s,fancypink,fancypurple,aladin,lion,rockdog,duck,iceblue,sporange,
-  night,sizz,crack,setout,captain,hulk,robin,gift31,gift36,gift41,agni,starlight,fanty,rainy,rangela,redapple,dragon1
+  night,sizz,crack,setout,captain,hulk,robin,gift31,gift36,gift41,agni,starlight,fanty,rainy,rangela,redapple,dragon1,
+
+  jallikattu,ben10,bluelabel,ganngajamuna,ben10green,elephant,pridepopcon,mojito,redlabel1,peacock1
 
 
 
