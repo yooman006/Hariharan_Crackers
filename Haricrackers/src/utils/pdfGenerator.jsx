@@ -192,7 +192,7 @@ export const generateReceipt = (orderData) => {
 
 export const sendReceiptEmail = async (orderData, pdfBase64) => {
   try {
-    const response = await fetch('https://haricrackerbackend.azurewebsites.net/api/orders/send-receipt-email', {
+    const response = await fetch('https://haricrackerbackend-f9a2d9fpdcathmet.southeastasia-01.azurewebsites.net/api/orders/send-receipt-email', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',

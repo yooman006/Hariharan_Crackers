@@ -282,6 +282,46 @@ import pridepopcon from './pridepopcon.jpeg'
 import mojito from './mojito.jpeg'
 import redlabel1 from './redlabel.jpeg'
 import peacock1 from './peacock.jpeg'
+import greenlabel from './greenlabel.jpeg'
+import cockfight from './cockfight.jpeg'
+import starwar from './starwar.jpeg'
+import fstarrg from './5starrg.jpeg'
+import fstarred from './5starred.jpeg'
+import fstarwhite from './5starwhite.jpeg'
+import fstaryellow from './5staryellow.jpeg'
+import featherdrops from './featherdrops.jpeg'
+import megafeather from './megafeather.jpeg'
+import goldlabel from './goldlabel.jpeg'
+import fstargreen from './5stargreen.jpeg'
+import asarafibig from './asarafibig.jpeg'
+import qutubminar from './qutubminar.jpeg'
+import tajmahal from './tajmahal.jpeg'
+import ranikivav from './ranikivav.jpeg'
+import gateofindia from './gateofindia.jpeg'
+import mahabalipuram from './mahabalipuram.jpeg'
+import thar from './thar.jpeg'
+import ellora from './ellora.jpeg'
+import victoria from './victoria.jpeg'
+import ultravoltage from './ultravoltage.jpeg'
+import pogo1 from './pogo.jpeg'
+import lollipops from './lollipops.jpeg'
+import asarafismall from './asarafismall.jpeg'
+import fantasytown from './fantasytown.jpeg'
+import goldjungle from './goldjungle.jpeg'
+import jaguarrider from './jaguarrider.jpeg'
+import redarowana from './redarowana.jpeg'
+import junglemonkey from './junglemonkey.jpeg'
+import jungleelephant from './jungleelephant.jpeg'
+import junglepanther from './junglepanther.jpeg'
+import pussycat from './pussycat.jpeg'
+import habees from './habees.jpeg'
+import flower from './flower.jpeg'
+import royalsalute from './royalsalute.jpeg'
+import goldmine from './goldmine.jpeg'
+import aquaman from './aquaman.jpeg'
+import greenbees from './greenbees.jpeg'
+import silverangel from './silverangel.jpeg'
+import vel from './vel.jpeg'
 
 export const assets = {
   logo,birdCrackers,lakshmi,goldlakshmi,twosound,potjumbo,potbig,potspl,potaso,koti,kotig,kotij,chakarbig,chakarspl,chakard,wheel4,
@@ -303,7 +343,11 @@ export const assets = {
   booty,king,greenbeat,fastfury,fist,cricket,thriller,fancy4k,fancy4s,fancypink,fancypurple,aladin,lion,rockdog,duck,iceblue,sporange,
   night,sizz,crack,setout,captain,hulk,robin,gift31,gift36,gift41,agni,starlight,fanty,rainy,rangela,redapple,dragon1,
 
-  jallikattu,ben10,bluelabel,ganngajamuna,ben10green,elephant,pridepopcon,mojito,redlabel1,peacock1
+  jallikattu,ben10,bluelabel,ganngajamuna,ben10green,elephant,pridepopcon,mojito,redlabel1,peacock1,
+  greenlabel,cockfight,starwar,fstarrg,fstarred,fstarwhite,fstaryellow,featherdrops,megafeather,goldlabel,
+  fstargreen,asarafibig,qutubminar,tajmahal,ranikivav,gateofindia,mahabalipuram,thar,ellora,victoria,ultravoltage,pogo1,
+  lollipops,asarafismall,fantasytown,goldjungle,jaguarrider,redarowana,junglemonkey,jungleelephant,junglepanther,pussycat,
+  habees,flower,royalsalute,goldmine,aquaman,greenbees,silverangel,vel,
 
 
 
